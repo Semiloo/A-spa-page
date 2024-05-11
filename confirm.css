@@ -1,0 +1,11 @@
+body{
+    font-family: "Roboto Mono", monospace;
+}
+.link{
+        background-color:hsl(0, 0%, 100%) ;
+        width: 20%;
+        padding: 14px 14px 30px;
+        border-radius: 16px;
+        margin: 5% auto;
+        text-align: center;
+}
